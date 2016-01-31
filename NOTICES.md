@@ -1,6 +1,6 @@
 ## Clipboard Actions Translations by
 
-##### Arabic : Jet Sub
+##### Arabic : Jet Sub, Oji, Saad Al-Saleh
 ##### Czech : Adam Hazda
 ##### Slovak : Adam Hazda
 ##### Brasilian Portugese : Marcio Andrade 
