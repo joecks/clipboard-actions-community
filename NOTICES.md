@@ -4,7 +4,7 @@
 ##### Czech : Adam Hazda
 ##### Slovak : Adam Hazda
 ##### Brasilian Portugese : Marcio Andrade 
-##### Spanish : Rafael Corredor, [Adrian][1]
+##### Spanish : Rafael Corredor, [Adrian][1], Guanacos
 
 Thanks a lot!
 
