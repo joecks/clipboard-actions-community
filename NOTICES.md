@@ -5,6 +5,8 @@
 ##### Slovak : Adam Hazda
 ##### Brasilian Portugese : Marcio Andrade 
 ##### Spanish : Rafael Corredor, [Adrian][1], Guanacos
+##### Russian : Barbos
+##### Italian: ATF, g. pellegrino, Mattia
 
 Thanks a lot!
 
