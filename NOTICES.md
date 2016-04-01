@@ -10,4 +10,13 @@
 
 Thanks a lot!
 
+## Clipboard Actions used Libraries and Resources
+
+### Icons by: [Materialdesignicons][2] and [Google Icons][3]
+
+
+
+
    [1]: https://twitter.com/olympicwhite
+   [2]: https://materialdesignicons.com/
+   [3]: https://design.google.com/icons/
