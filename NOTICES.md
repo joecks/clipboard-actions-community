@@ -7,6 +7,7 @@
 ##### Spanish : Rafael Corredor, [Adrian][1], Guanacos
 ##### Russian : Barbos
 ##### Italian: ATF, g. pellegrino, Mattia
+##### Chinese: Tianhao Wu
 
 Thanks a lot!
 
