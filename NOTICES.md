@@ -1,15 +1,15 @@
 ## Clipboard Actions Translations by
 
-##### Arabic : Jet Sub, Oji, Saad Al-Saleh
-##### Czech : Adam Hazda
-##### Slovak : Adam Hazda
-##### Brasilian Portugese : Marcio Andrade 
-##### Spanish : Rafael Corredor, [Adrian][1], Guanacos
-##### Russian : Barbos
+##### Arabic: Jet Sub, Oji, Saad Al-Saleh
+##### Czech: Adam Hazda
+##### Slovak: Adam Hazda
+##### Brasilian Portugese: Marcio Andrade 
+##### Spanish: Rafael Corredor, [Adrian][1], Guanacos
+##### Russian: Barbos
 ##### Italian: ATF, g. pellegrino, Mattia
 ##### Chinese: Tianhao Wu
 ##### Polish: Karol Wójcik
-##### Finish: [Ilkka Kuusisto][5]
+##### Finnish: [Ilkka Kuusisto][5]
 
 Thanks a lot!
 
