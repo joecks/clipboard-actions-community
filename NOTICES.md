@@ -8,7 +8,7 @@
 ##### Russian: Barbos
 ##### Italian: ATF, g. pellegrino, Mattia
 ##### Chinese: Tianhao Wu
-##### Polish: Karol Wójcik
+##### Polish: [Karol Wójcik][6]
 ##### Finnish: [Ilkka Kuusisto][5]
 
 Thanks a lot!
@@ -25,3 +25,4 @@ Thanks a lot!
    [3]: https://design.google.com/icons/
    [4]: http://www.vecteezy.com/members/nightwolfdezines
    [5]: https://github.com/Igetin
+   [6]: https://github.com/CharlesPL
