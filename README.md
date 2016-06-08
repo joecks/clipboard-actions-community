@@ -5,7 +5,8 @@ A issue tracker for the Clipboard Actions Project
 
 ## Help with translations:
 ### [English, Spanish, Arabic, Brasilian Portugese, Czech, Slovak, Russian][2] or
-### [Italian, Korean, Chinese, Japanese, French, Finish, Polish, German and others][5]
+### [Italian, Korean, Chinese, Japanese, French, Finish, Polish, Greek][5]
+### [German, Swedish and others][7]
 
 
 Follow the links above, register and choose a lannguage to translate. If you found an issue with any existing translation please add a comment or fix it. If you can not find the language you need, please contact me, via the report button in the Clipboard Actions App, and I will add it.
@@ -26,3 +27,4 @@ Clipboard Action is free (with all features) and without ads  and if you like my
    [4]: https://creativecommons.org/publicdomain/zero/1.0/
    [5]: https://poeditor.com/join/project/jI5nD7U8E1
    [6]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V55LZ6KETXAR6
+   [7]: https://poeditor.com/join/project/uNrqmX3f7I
