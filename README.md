@@ -1,6 +1,9 @@
 # Clipboard Actions
 A issue tracker for the Clipboard Actions Project
 
+**[Paypal Donate Link][6]**
+**[Bitcoin Donate][8]**
+
 ## [Create a new Issue and view all issues][1]
 
 ## Help with translations:
@@ -17,8 +20,9 @@ If you are participatring in the translation program you are providing translati
 
 Clipboard Action is free (with all features) and without ads  and if you like my work please support development by using in in-app option or just paypal:
 
-**[Paypal Donate Link][6]**
 
+**[Paypal Donate Link][6]**
+**[Bitcoin Donate][8]**
 
 
    [1]: https://github.com/joecks/clipboard-actions-community/issues
@@ -28,3 +32,4 @@ Clipboard Action is free (with all features) and without ads  and if you like my
    [5]: https://poeditor.com/join/project/jI5nD7U8E1
    [6]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V55LZ6KETXAR6
    [7]: https://poeditor.com/join/project/uNrqmX3f7I
+   [8]: bitcoin:3ATqJW91yxtem1453vnew67JNJw5BUECc9
