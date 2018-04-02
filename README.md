@@ -9,9 +9,9 @@ A issue tracker for the Clipboard Actions Project
 ## [Create a new Issue and view all issues][1]
 
 ## Help with translations:
-### [English, Spanish, Arabic, Brasilian Portugese, Czech, Slovak, Russian][2] or
+### [English, Spanish, Arabic, Brasilian Portugese, Czech, Slovak][2] or
 ### [Italian, Korean, Chinese, Japanese, French, Finish, Polish, Greek][5]
-### [German, Swedish and others][7]
+### [German, Swedish, Russian and others][7]
 
 
 Follow the links above, register and choose a lannguage to translate. If you found an issue with any existing translation please add a comment or fix it. If you can not find the language you need, please contact me, via the report button in the Clipboard Actions App, and I will add it.
