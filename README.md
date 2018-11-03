@@ -11,7 +11,8 @@ A issue tracker for the Clipboard Actions Project
 ## Help with translations:
 ### [English, Spanish, Arabic, Brasilian Portugese, Czech, Slovak][2] or
 ### [Italian, Korean, Chinese, Japanese, French, Finish, Polish, Greek][5]
-### [German, Swedish, Russian and others][7]
+### [Swedish, Russian and others][7]
+### [German](https://poeditor.com/join/project/yWXyPpqWqv)
 
 
 Follow the links above, register and choose a lannguage to translate. If you found an issue with any existing translation please add a comment or fix it. If you can not find the language you need, please contact me, via the report button in the Clipboard Actions App, and I will add it.
