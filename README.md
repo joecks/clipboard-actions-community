@@ -11,7 +11,8 @@ A issue tracker for the Clipboard Actions Project
 ## Help with translations:
 ### [Arabic](https://poeditor.com/join/project/6MfJaULx3V)
 ### [Czech](https://poeditor.com/join/project/EfxdxMY0sL)
-### [Spanish, Brasilian Portugese, Slovak][2] or
+### [Brasilian Portuguese](https://poeditor.com/join/project/NTaeZSQtn0)
+### [Spanish, Slovak][2] or
 ### [Italian, Korean, Chinese, Japanese, French, Finish, Polish, Greek][5]
 ### [Swedish](https://poeditor.com/join/project/R2G7aB53ZD)
 ### [German](https://poeditor.com/join/project/yWXyPpqWqv)
