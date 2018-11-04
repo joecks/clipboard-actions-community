@@ -26,6 +26,8 @@ A issue tracker for the Clipboard Actions Project
 ### [Swedish](https://poeditor.com/join/project/R2G7aB53ZD)
 ### [Russian](https://poeditor.com/join/project/afwAIElTQF)
 
+### [SUGGEST NEW LANGUAGES](https://poeditor.com/join/project/9GQUbdKWNq)
+
 
 
 Follow the links above, register and choose a lannguage to translate. If you found an issue with any existing translation please add a comment or fix it. If you can not find the language you need, please contact me, via the report button in the Clipboard Actions App, and I will add it.
