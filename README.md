@@ -16,8 +16,9 @@ A issue tracker for the Clipboard Actions Project
 ### [Finnish](https://poeditor.com/join/project/t1yAxN7IxY)
 ### [French](https://poeditor.com/join/project/1zWgNJCtsj)
 ### [German](https://poeditor.com/join/project/yWXyPpqWqv)
+### [Italian](https://poeditor.com/join/project/FSVyLl4dX2)
 ### [Spanish](https://poeditor.com/join/project/QJknOiXAF2)
-### [Italian, Korean, Chinese, Japanese, French, Polish, Greek][5]
+### [Korean, Chinese, Japanese, Polish, Greek][5]
 ### [Slovak](https://poeditor.com/join/project/sHase6ZGr6)
 ### [Swedish](https://poeditor.com/join/project/R2G7aB53ZD)
 ### [Russian](https://poeditor.com/join/project/afwAIElTQF)
