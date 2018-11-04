@@ -9,7 +9,8 @@ A issue tracker for the Clipboard Actions Project
 ## [Create a new Issue and view all issues][1]
 
 ## Help with translations:
-### [Spanish, Arabic, Brasilian Portugese, Czech, Slovak][2] or
+### [Arabic](https://poeditor.com/join/project/6MfJaULx3V)
+### [Spanish, Brasilian Portugese, Czech, Slovak][2] or
 ### [Italian, Korean, Chinese, Japanese, French, Finish, Polish, Greek][5]
 ### [Swedish](https://poeditor.com/join/project/R2G7aB53ZD)
 ### [German](https://poeditor.com/join/project/yWXyPpqWqv)
