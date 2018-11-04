@@ -10,14 +10,16 @@ A issue tracker for the Clipboard Actions Project
 
 ## Help with translations:
 ### [Arabic](https://poeditor.com/join/project/6MfJaULx3V)
-### [Czech](https://poeditor.com/join/project/EfxdxMY0sL)
 ### [Brasilian Portuguese](https://poeditor.com/join/project/NTaeZSQtn0)
-### [Spanish, Slovak][2] or
-### [Italian, Korean, Chinese, Japanese, French, Finish, Polish, Greek][5]
-### [Swedish](https://poeditor.com/join/project/R2G7aB53ZD)
-### [German](https://poeditor.com/join/project/yWXyPpqWqv)
-### [Russian](https://poeditor.com/join/project/afwAIElTQF)
+### [Czech](https://poeditor.com/join/project/EfxdxMY0sL)
 ### [English - to correct spelling mistakes, change wording](https://poeditor.com/join/project/uNrqmX3f7I)
+### [German](https://poeditor.com/join/project/yWXyPpqWqv)
+### [Spanish](https://poeditor.com/join/project/QJknOiXAF2)
+### [Italian, Korean, Chinese, Japanese, French, Finish, Polish, Greek][5]
+### [Slovak](https://poeditor.com/join/project/sHase6ZGr6)
+### [Swedish](https://poeditor.com/join/project/R2G7aB53ZD)
+### [Russian](https://poeditor.com/join/project/afwAIElTQF)
+
 
 
 Follow the links above, register and choose a lannguage to translate. If you found an issue with any existing translation please add a comment or fix it. If you can not find the language you need, please contact me, via the report button in the Clipboard Actions App, and I will add it.
@@ -35,7 +37,6 @@ Clipboard Action is free (with all features) and without ads  and if you like my
 
 
    [1]: https://github.com/joecks/clipboard-actions-community/issues
-   [2]: https://poeditor.com/join/project/QJknOiXAF2
    [3]: https://creativecommons.org/licenses/by/4.0/
    [4]: https://creativecommons.org/publicdomain/zero/1.0/
    [5]: https://poeditor.com/join/project/jI5nD7U8E1
