@@ -1,10 +1,10 @@
+**Donations:**
+![BTC: 3ATqJW91yxtem1453vnew67JNJw5BUECc9](https://img.shields.io/badge/BTC-3ATqJW91yxtem1453vnew67JNJw5BUECc9-green.svg)
+[![paypal: clipboardactions@halfreal.de](https://img.shields.io/badge/PAYPAL-clipboardactions@halfreal.de-green.svg)][6]
+
 # Clipboard Actions
 A issue tracker for the Clipboard Actions Project
 
-
-**[Paypal Donate Link][6]**
-
-**Bitcoin Donate: bitcoin:3ATqJW91yxtem1453vnew67JNJw5BUECc9**
 
 ## [Create a new Issue and view all issues][1]
 
@@ -40,7 +40,6 @@ Clipboard Action is free (with all features) and without ads  and if you like my
 
 
 **[Paypal Donate Link][6]**
-
 **Bitcoin Donate: bitcoin:3ATqJW91yxtem1453vnew67JNJw5BUECc9**
 
 
