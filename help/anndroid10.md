@@ -5,6 +5,9 @@ With Android 10 Google introduced some privacy changes that disable **to read** 
 Privacy-wise this is a good thing, but unfortunately Google did not add any alternative, so ClipboardActions can not work as it used to. 
 If you dislike that please visit and star the official [Android issue](https://issuetracker.google.com/issues/123461156)!
 
+## New Experimental Setting - Auto Copy with Accessibility Service
+**Go to Settings -> Service -> App Context Aware**, activate that option and **Auto copy + save**, then you have the old Android behaviour back. This Setting is experimental, it detects when you copied something based on behaviour assumptions (like you clicked on a button that says "Copy"), therefore your feedback is required to improve this function.
+
 ## New Behaviour - Long-press Context
 ![](copy+.png)
 
