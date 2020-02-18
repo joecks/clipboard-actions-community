@@ -12,6 +12,7 @@ A issue tracker for the Clipboard Actions Project
 ### [Arabic](https://poeditor.com/join/project/6MfJaULx3V)
 ### [Brasilian Portuguese](https://poeditor.com/join/project/NTaeZSQtn0)
 ### [Czech](https://poeditor.com/join/project/EfxdxMY0sL)
+### [Catalan](https://poeditor.com/join/project/Qo5SowvAae)
 ### [English - to correct spelling mistakes, change wording](https://poeditor.com/join/project/uNrqmX3f7I)
 ### [Finnish](https://poeditor.com/join/project/t1yAxN7IxY)
 ### [French](https://poeditor.com/join/project/1zWgNJCtsj)
