@@ -23,6 +23,7 @@ A issue tracker for the Clipboard Actions Project
 ### [Polish](https://poeditor.com/join/project/TaYRkc3EM8)
 ### [Spanish](https://poeditor.com/join/project/QJknOiXAF2)
 ### [Chinese](https://poeditor.com/join/project/jI5nD7U8E1)
+### [Chinese-Traditional (Taiwan) ](https://poeditor.com/join/project/lNoeS9vwZR)
 ### [Slovak](https://poeditor.com/join/project/sHase6ZGr6)
 ### [Swedish](https://poeditor.com/join/project/R2G7aB53ZD)
 ### [Russian](https://poeditor.com/join/project/afwAIElTQF)
